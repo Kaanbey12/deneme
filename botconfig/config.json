@@ -1,0 +1,22 @@
+{
+  "prefix": ".", 
+  
+  "client": {
+    "secrets": {
+      "TOKEN": ""
+    },
+    
+    "presence": {
+      "ACTIVITY": "ÖNERİ ŞİKAYET DM",
+      "TYPE": "31",
+      "STATUS": "YAZ BANA"
+    }
+    
+  },
+  
+  "system": {
+    "SERVER_ID": "981551232474816592",
+    "CATEGORY_ID": "1016299153044807722",
+     "BITFIELD": "981551232474816592"
+  }
+}
